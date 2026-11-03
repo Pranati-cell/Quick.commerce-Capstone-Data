@@ -7,15 +7,15 @@ The findings will be used to generate recommendations for modern quick-commerce 
 How can quick-commerce companies improve operational efficiency, customer retention, and profitability using historical transaction data?
 
 **Objectives:**
-Analyse customer ordering behaviour
-Evaluate discount effectiveness
-Study delivery performance
-Identify drivers of profitability
-Generate actionable business recommendations
-Dataset
-The dataset spans 2015–2025 and includes information related to:
+Analyse customer ordering behaviour, 
+Evaluate discount effectiveness, 
+Study delivery performance, 
+Identify drivers of profitability, 
+Generate actionable business recommendations.
 
-**Orders:**
+**Dataset:**
+The dataset spans 2024 and includes information related to:
+Orders, 
 Customers,
 Product categories, 
 Discounts, 
