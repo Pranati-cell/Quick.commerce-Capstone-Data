@@ -1,6 +1,6 @@
 **Quick Commerce Analytics Capstone Project**
 **Project Overview:**
-This project analyses historical quick-commerce transaction data (2015–2025) to identify operational inefficiencies, customer behaviour patterns, and factors affecting profitability.
+This project analyses historical quick-commerce transaction data (2024) to identify operational inefficiencies, customer behaviour patterns, and factors affecting profitability.
 The findings will be used to generate recommendations for modern quick-commerce companies such as Zepto, Blinkit, and Swiggy Instamart.
 
 **Problem Statement:**
