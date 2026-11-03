@@ -16,21 +16,21 @@ Dataset
 The dataset spans 2015–2025 and includes information related to:
 
 **Orders:**
-Customers
-Product categories
-Discounts
-Delivery operations
-Payment methods
-Revenues and transaction values
+Customers,
+Product categories, 
+Discounts, 
+Delivery operations, 
+Payment methods, 
+Revenues and transaction values, 
 Dataset documentation is available in the data folder.
 
 **Tools and Technologies:**
-Python
-Pandas
-NumPy
-Power BI
-Excel
-GitHub
+Python, 
+Pandas, 
+NumPy, 
+Power BI, 
+Excel,
+GitHub.
 
 **Repository Structure:**
 data/
@@ -38,6 +38,6 @@ notebooks/
 reports/
 
 **Team Members:**
-M. L. Pranati 
-Manav Chopra
-Mitali Lackhwani
+M. L. Pranati, 
+Manav Chopra, 
+Mitali Lackhwani.
